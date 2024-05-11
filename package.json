@@ -1,0 +1,22 @@
+{
+  "name": "container-cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesTan2023/container-CICD.git"
+  },
+  "author": "James",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesTan2023/container-CICD/issues"
+  },
+  "homepage": "https://github.com/JamesTan2023/container-CICD#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
