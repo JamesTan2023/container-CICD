@@ -1,0 +1,5 @@
+ecs_cluster_name = "james-ecs-cluster-prod"
+ecs_service_name = "james-ecs-service-prod"
+ecs_task_defn_family = "james-ecs-task-def-prod"
+ecs_container_name = "james-container-prod"
+ecs_port_name = "james-3000-tcp-prod"

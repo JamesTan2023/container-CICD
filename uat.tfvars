@@ -1,0 +1,5 @@
+ecs_cluster_name = "james-ecs-cluster-uat"
+ecs_service_name = "james-ecs-service-uat"
+ecs_task_defn_family = "james-ecs-task-def-uat"
+ecs_container_name = "james-container-uat"
+ecs_port_name = "james-3000-tcp-uat"

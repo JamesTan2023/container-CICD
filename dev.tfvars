@@ -1,0 +1,5 @@
+ecs_cluster_name = "james-ecs-cluster-dev"
+ecs_service_name = "james-ecs-service-dev"
+ecs_task_defn_family = "james-ecs-task-def-dev"
+ecs_container_name = "james-container-dev"
+ecs_port_name = "james-3000-tcp-dev"
